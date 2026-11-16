@@ -1,5 +1,7 @@
 # Nova AI: AI Chat SaaS
 
+**🔗 Live demo: [nova-ai-chat-orcin.vercel.app](https://nova-ai-chat-orcin.vercel.app)**
+
 A modern AI chat web app built with **Next.js, TypeScript and Tailwind CSS**. It streams answers in real time and scrolls with them as they arrive, saves your chat history, and has light and dark themes. A landing page with pricing is included.
 
 It runs in **demo mode** out of the box: realistic pre-written answers are streamed token by token, so the live demo works without an API key and costs nothing. Add an Anthropic API key and Nova answers with **Claude** instead.
